@@ -27,11 +27,12 @@ brew install git
 ```
 <br>
 <br> Чтобы обновить установку Git, используйте параметр обновления Homebrew:<br><br>
+
 ```
 brew upgrade git
 ```
-<br>
-<br> Графический установщик для Git на macOS также доступен на [официальном веб-сайте](https://git-scm.com/download/mac) Git.<br>
+
+<br><br> Графический установщик для Git на macOS также доступен на [официальном веб-сайте](https://git-scm.com/download/mac) Git.<br><br>
 ___
 
 
